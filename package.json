@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "publisher": "mishatoshi",
   "license": "MIT",
-  "icon": "./mojito-icon.png",
+  "icon": "./mojito-512.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/mishatoshi/mojito-vscode-theme"
@@ -22,7 +22,8 @@
   "keywords": [
     "theme",
     "mojito",
-    "dark"
+    "dark",
+    "teal"
   ],
   "contributes": {
     "themes": [
