@@ -2,7 +2,7 @@
   "name": "mojito-vscode-theme",
   "displayName": "Mojito Theme",
   "description": "Mojito Theme for VS Code",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "mishatoshi",
   "license": "MIT",
   "icon": "./mojito-512.png",
@@ -12,6 +12,10 @@
   },
   "bugs": {
     "url": "https://github.com/mishatoshi/mojito-vscode-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#DCE775",
+    "theme": "dark"
   },
   "engines": {
     "vscode": "^1.76.0"
@@ -23,7 +27,7 @@
     "theme",
     "mojito",
     "dark",
-    "teal"
+    "vscode"
   ],
   "contributes": {
     "themes": [
