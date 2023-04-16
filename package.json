@@ -1,11 +1,11 @@
 {
   "name": "mojito-vscode-theme",
   "displayName": "Mojito Theme",
-  "description": "Mojito Theme for VS Code",
+  "description": "Sometimes, all you need is Mojito Theme",
   "version": "1.0.0",
   "publisher": "mishatoshi",
   "license": "MIT",
-  "icon": "./mojito-512.png",
+  "icon": "./mojito-theme-512.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/mishatoshi/mojito-vscode-theme"
@@ -14,7 +14,7 @@
     "url": "https://github.com/mishatoshi/mojito-vscode-theme/issues"
   },
   "galleryBanner": {
-    "color": "#DCE775",
+    "color": "#1B322C",
     "theme": "dark"
   },
   "engines": {
@@ -27,7 +27,8 @@
     "theme",
     "mojito",
     "dark",
-    "vscode"
+    "vscode",
+    "visual-studio-code"
   ],
   "contributes": {
     "themes": [
