@@ -524,6 +524,8 @@
 			"name": "Keyword. Storage",
 			"scope": [
 				"keyword",
+				"keyword.other",
+				"keyword.other.unit",
 				"storage.type",
 				"storage.modifier"
 			],
@@ -532,10 +534,8 @@
 			}
 		},
 		{
-			"name": "Keyword Other. Function Return, If/Else, Operator New, Section Embedded",
+			"name": "Function Return, If/Else, Operator New, Section Embedded",
 			"scope": [
-				"keyword.other",
-				"keyword.other.unit",
 				"keyword.control",
 				"keyword.operator.new",
 				"punctuation.section.embedded"
@@ -609,6 +609,7 @@
 		{
 			"name": "Class, Support",
 			"scope": [
+				"entity.name",
 				"entity.name.class",
 				"entity.name.type.class",
 				"support.type",
@@ -915,12 +916,41 @@
 			}
 		},
 		{
+			"name": "[C] - Storage Type",
+			"scope": [
+				"source.c storage.type.built-in.primitive.c",
+				"source.c storage.type.struct.c"
+			],
+			"settings": {
+				"foreground": "#FFB74D"
+			}
+		},
+		{
+			"name": "[C] - Variable Member",
+			"scope": [
+				"source.c variable.other.member.c"
+			],
+			"settings": {
+				"foreground": "#DCE775"
+			}
+		},
+		{
 			"name": "[C++] - Punctuation Directive",
 			"scope": [
 				"source.cpp punctuation.definition.directive.cpp"
 			],
 			"settings": {
 				"foreground": "#F06292"
+			}
+		},
+		{
+			"name": "[C++] - Scope Resolution, Storage Type",
+			"scope": [
+				"source.cpp entity.name.scope-resolution.cpp",
+				"source.cpp storage.type.built-in.primitive.cpp"
+			],
+			"settings": {
+				"foreground": "#FFB74D"
 			}
 		},
 		{
@@ -976,15 +1006,6 @@
 				"source.java storage.type.java",
 				"source.java storage.type.primitive.java",
 				"source.java storage.type.object.array.java"
-			],
-			"settings": {
-				"foreground": "#FFB74D"
-			}
-		},
-		{
-			"name": "[C++] - Scope Resolution",
-			"scope": [
-				"source.cpp entity.name.scope-resolution.cpp"
 			],
 			"settings": {
 				"foreground": "#FFB74D"
@@ -1162,7 +1183,8 @@
 		{
 			"name": "Markup Heading",
 			"scope": [
-				"markup.heading"
+				"markup.heading",
+				"markup.heading.markdown"
 			],
 			"settings": {
 				"foreground": "#AED581"
@@ -1191,7 +1213,7 @@
 			"name": "[Markdown] - Heading",
 			"scope": [
 				"markdown.heading",
-				"markup.heading | markup.heading entity.name"
+				"entity.name.section.markdown"
 			],
 			"settings": {
 				"foreground": "#AED581"
