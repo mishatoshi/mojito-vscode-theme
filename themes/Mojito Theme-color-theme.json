@@ -5,7 +5,7 @@
 		"contrastActiveBorder": "#FFFFFF00",
 		"contrastBorder": "#FFFFFF00",
 		"focusBorder": "#4DB6AC",
-		"foreground": "#FFFFFF",
+		"foreground": "#E0F2F1",
 		"disabledForeground": "#4DB6AC",
 		"widget.border": "#4DB6AC50",
 		"widget.shadow": "#4DB6AC50",
@@ -25,7 +25,7 @@
 		"toolbar.hoverOutline": "#4DB6AC",
 		"toolbar.activeBackground": "#388E3C",
 		"editor.background": "#1B322C",
-		"editor.foreground": "#FFFFFF",
+		"editor.foreground": "#E0F2F1",
 		"editorCursor.foreground": "#FFCA28",
 		"editor.selectionBackground": "#26A69A40",
 		"editor.inactiveSelectionBackground": "#26A69A20",
@@ -47,17 +47,17 @@
 		"editorLink.activeForeground": "#FFCC80",
 		"editorWhitespace.foreground": "#FFFFFF30",
 		"editorRuler.foreground": "#FFFFFF30",
-		"editorIndentGuide.background": "#FFFFFF30",
-		"editorIndentGuide.activeBackground": "#AED581",
+		"editorIndentGuide.background1": "#FFFFFF30",
+		"editorIndentGuide.activeBackground1": "#AED581",
 		"editorCodeLens.foreground": "#4DB6AC",
 		"editor.foldBackground": "#4DB6AC20",
 		"editorBracketMatch.background": "#1B322C",
 		"editorBracketMatch.border": "#FFCA2850",
-		"editorBracketHighlight.foreground1": "#FFB74D",
-		"editorBracketHighlight.foreground2": "#F06292",
+		"editorBracketHighlight.foreground1": "#AED581",
+		"editorBracketHighlight.foreground2": "#FFB74D",
 		"editorBracketHighlight.foreground3": "#4DD0E1",
-		"editorBracketHighlight.foreground4": "#FFB74D",
-		"editorBracketHighlight.foreground5": "#F06292",
+		"editorBracketHighlight.foreground4": "#AED581",
+		"editorBracketHighlight.foreground5": "#FFB74D",
 		"editorBracketHighlight.foreground6": "#4DD0E1",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#F44336",
 		"editorOverviewRuler.background": "#1B322C",
@@ -430,15 +430,6 @@
 			}
 		},
 		{
-			"name": "Variable Parameter",
-			"scope": [
-				"variable.parameter"
-			],
-			"settings": {
-				"foreground": "#64B5F6"
-			}
-		},
-		{
 			"name": "Other Variable",
 			"scope": [
 				"support.other.variable"
@@ -451,7 +442,7 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#64B5F6"
+				"foreground": "#4DD0E1"
 			}
 		},
 		{
@@ -468,7 +459,7 @@
 			"name": "Boolean",
 			"scope": "constant.language.boolean",
 			"settings": {
-				"foreground": "#64B5F6"
+				"foreground": "#FF8A65"
 			}
 		},
 		{
@@ -478,11 +469,11 @@
 				"constant.language.null"
 			],
 			"settings": {
-				"foreground": "#64B5F6"
+				"foreground": "#FF8A65"
 			}
 		},
 		{
-			"name": "Punctuation, Keyword",
+			"name": "Punctuation",
 			"scope": [
 				"punctuation",
 				"meta.var.expr",
@@ -521,27 +512,23 @@
 			}
 		},
 		{
-			"name": "Keyword. Storage",
+			"name": "Keyword, Storage, New, Super, This, Self",
 			"scope": [
 				"keyword",
 				"keyword.other",
 				"keyword.other.unit",
+				"keyword.control",
+				"keyword.operator.new",
+				"punctuation.section.embedded",
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
+				"variable.language.this",
+				"variable.language.this.php punctuation.definition.variable.php",
+				"variable.language.super",
+				"variable.language.self"
 			],
 			"settings": {
 				"foreground": "#FF8A65"
-			}
-		},
-		{
-			"name": "Function Return, If/Else, Operator New, Section Embedded",
-			"scope": [
-				"keyword.control",
-				"keyword.operator.new",
-				"punctuation.section.embedded"
-			],
-			"settings": {
-				"foreground": "#F06292"
 			}
 		},
 		{
@@ -596,6 +583,15 @@
 			}
 		},
 		{
+			"name": "Variable Parameter",
+			"scope": [
+				"variable.parameter"
+			],
+			"settings": {
+				"foreground": "#FFB74D"
+			}
+		},
+		{
 			"name": "Object Key",
 			"scope": [
 				"variable.other.property",
@@ -609,20 +605,16 @@
 		{
 			"name": "Class, Support",
 			"scope": [
-				"entity.name",
 				"entity.name.class",
 				"entity.name.type.class",
+				"entity.name.type.module",
 				"support.type",
 				"support.class",
 				"support.class.component",
-				"entity.other.inherited-class",
-				"variable.language.this",
-				"variable.language.this.php punctuation.definition.variable.php",
-				"variable.language.super",
-				"variable.language.self"
+				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#FFB74D"
+				"foreground": "#F48FB1"
 			}
 		},
 		{
@@ -634,7 +626,7 @@
 				"keyword.other.type"
 			],
 			"settings": {
-				"foreground": "#FFB74D"
+				"foreground": "#F48FB1"
 			}
 		},
 		{
@@ -645,7 +637,7 @@
 				"entity.name.type.enum"
 			],
 			"settings": {
-				"foreground": "#FFB74D"
+				"foreground": "#F48FB1"
 			}
 		},
 		{
@@ -670,7 +662,7 @@
 			}
 		},
 		{
-			"name": "[CSS] - Attributes: Root, Font-Face",
+			"name": "[CSS] - Attributes: Root, Font-Face, Important, PX, ID, Pseudo-Elements",
 			"scope": [
 				"source.css entity.other.attribute-name.pseudo-class.css",
 				"source.sass entity.other.attribute-name.pseudo-class.css",
@@ -695,15 +687,7 @@
 				"source.scss punctuation.definition.keyword.css",
 				"source.less punctuation.definition.keyword.css",
 				"source.stylus punctuation.definition.keyword.css",
-				"source.postcss punctuation.definition.keyword.css"
-			],
-			"settings": {
-				"foreground": "#4DD0E1"
-			}
-		},
-		{
-			"name": "[CSS] - Keyword Other",
-			"scope": [
+				"source.postcss punctuation.definition.keyword.css",
 				"source.css keyword.other.important.css",
 				"source.sass keyword.other.important.css",
 				"source.scss keyword.other.important.css",
@@ -715,10 +699,22 @@
 				"source.scss keyword.other.unit.px.css",
 				"source.less keyword.other.unit.px.css",
 				"source.stylus keyword.other.unit.px.css",
-				"source.postcss keyword.other.unit.px.css"
+				"source.postcss keyword.other.unit.px.css",
+				"source.css entity.other.attribute-name.id.css",
+				"source.sass entity.other.attribute-name.id.css",
+				"source.scss entity.other.attribute-name.id.css",
+				"source.less entity.other.attribute-name.id.css",
+				"source.stylus entity.other.attribute-name.id.css",
+				"source.postcss entity.other.attribute-name.id.css",
+				"source.css entity.other.attribute-name.pseudo-element.css",
+				"source.sass entity.other.attribute-name.pseudo-element.css",
+				"source.scss entity.other.attribute-name.pseudo-element.css",
+				"source.less entity.other.attribute-name.pseudo-element.css",
+				"source.stylus entity.other.attribute-name.pseudo-element.css",
+				"source.postcss entity.other.attribute-name.pseudo-element.css"
 			],
 			"settings": {
-				"foreground": "#F06292"
+				"foreground": "#4DD0E1"
 			}
 		},
 		{
@@ -736,20 +732,6 @@
 			}
 		},
 		{
-			"name": "[CSS] - Id's",
-			"scope": [
-				"source.css entity.other.attribute-name.id.css",
-				"source.sass entity.other.attribute-name.id.css",
-				"source.scss entity.other.attribute-name.id.css",
-				"source.less entity.other.attribute-name.id.css",
-				"source.stylus entity.other.attribute-name.id.css",
-				"source.postcss entity.other.attribute-name.id.css"
-			],
-			"settings": {
-				"foreground": "#F06292"
-			}
-		},
-		{
 			"name": "[CSS] - Classes",
 			"scope": [
 				"source.css entity.other.attribute-name.class",
@@ -761,20 +743,6 @@
 			],
 			"settings": {
 				"foreground": "#FFB74D"
-			}
-		},
-		{
-			"name": "[CSS] - Pseudo-Elements",
-			"scope": [
-				"source.css entity.other.attribute-name.pseudo-element.css",
-				"source.sass entity.other.attribute-name.pseudo-element.css",
-				"source.scss entity.other.attribute-name.pseudo-element.css",
-				"source.less entity.other.attribute-name.pseudo-element.css",
-				"source.stylus entity.other.attribute-name.pseudo-element.css",
-				"source.postcss entity.other.attribute-name.pseudo-element.css"
-			],
-			"settings": {
-				"foreground": "#DCE775"
 			}
 		},
 		{
@@ -835,7 +803,7 @@
 				"source.tsx variable.parameter.tsx"
 			],
 			"settings": {
-				"foreground": "#64B5F6"
+				"foreground": "#FFB74D"
 			}
 		},
 		{
@@ -856,7 +824,7 @@
 				"source.tsx entity.name.type.interface.tsx"
 			],
 			"settings": {
-				"foreground": "#FFB74D"
+				"foreground": "#F48FB1"
 			}
 		},
 		{
@@ -865,7 +833,7 @@
 				"source.tsx support.type.primitive.tsx"
 			],
 			"settings": {
-				"foreground": "#FFB74D"
+				"foreground": "#F48FB1"
 			}
 		},
 		{
@@ -912,7 +880,7 @@
 				"source.c punctuation.definition.directive.c"
 			],
 			"settings": {
-				"foreground": "#F06292"
+				"foreground": "#FF8A65"
 			}
 		},
 		{
@@ -922,7 +890,7 @@
 				"source.c storage.type.struct.c"
 			],
 			"settings": {
-				"foreground": "#FFB74D"
+				"foreground": "#F48FB1"
 			}
 		},
 		{
@@ -940,7 +908,7 @@
 				"source.cpp punctuation.definition.directive.cpp"
 			],
 			"settings": {
-				"foreground": "#F06292"
+				"foreground": "#FF8A65"
 			}
 		},
 		{
@@ -950,7 +918,7 @@
 				"source.cpp storage.type.built-in.primitive.cpp"
 			],
 			"settings": {
-				"foreground": "#FFB74D"
+				"foreground": "#F48FB1"
 			}
 		},
 		{
@@ -959,7 +927,7 @@
 				"source.rust variable.language.self.rust"
 			],
 			"settings": {
-				"foreground": "#FFB74D"
+				"foreground": "#FF8A65"
 			}
 		},
 		{
@@ -978,16 +946,7 @@
 				"source.python variable.language.special.self.python"
 			],
 			"settings": {
-				"foreground": "#FFB74D"
-			}
-		},
-		{
-			"name": "[Python] - indexed Name",
-			"scope": [
-				"source.python meta.indexed-name.python"
-			],
-			"settings": {
-				"foreground": "#64B5F6"
+				"foreground": "#FF8A65"
 			}
 		},
 		{
@@ -997,18 +956,18 @@
 				"source.go storage.type.numeric.go",
 			],
 			"settings": {
-				"foreground": "#FFB74D"
+				"foreground": "#F48FB1"
 			}
 		},
 		{
-			"name": "[Go] - Storage Type",
+			"name": "[Java] - Storage Type",
 			"scope": [
 				"source.java storage.type.java",
 				"source.java storage.type.primitive.java",
 				"source.java storage.type.object.array.java"
 			],
 			"settings": {
-				"foreground": "#FFB74D"
+				"foreground": "#F48FB1"
 			}
 		},
 		{
