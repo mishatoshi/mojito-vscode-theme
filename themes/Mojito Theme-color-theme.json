@@ -484,6 +484,15 @@
 			}
 		},
 		{
+			"name": "Keyword Other Unit",
+			"scope": [
+				"keyword.other.unit"
+			],
+			"settings": {
+				"foreground": "#4DD0E1"
+			}
+		},
+		{
 			"name": "Escape Characters",
 			"scope": [
 				"constant.character.escape"
@@ -516,7 +525,6 @@
 			"scope": [
 				"keyword",
 				"keyword.other",
-				"keyword.other.unit",
 				"keyword.control",
 				"keyword.operator.new",
 				"punctuation.section.embedded",
@@ -694,12 +702,12 @@
 				"source.less keyword.other.important.css",
 				"source.stylus keyword.other.important.css",
 				"source.postcss keyword.other.important.css",
-				"source.css keyword.other.unit.px.css",
-				"source.sass keyword.other.unit.px.css",
-				"source.scss keyword.other.unit.px.css",
-				"source.less keyword.other.unit.px.css",
-				"source.stylus keyword.other.unit.px.css",
-				"source.postcss keyword.other.unit.px.css",
+				"source.css keyword.control.at-rule.keyframes.css",
+				"source.sass keyword.control.at-rule.keyframes.css",
+				"source.scss keyword.control.at-rule.keyframes.css",
+				"source.less keyword.control.at-rule.keyframes.css",
+				"source.stylus keyword.control.at-rule.keyframes.css",
+				"source.postcss keyword.control.at-rule.keyframes.css",
 				"source.css entity.other.attribute-name.id.css",
 				"source.sass entity.other.attribute-name.id.css",
 				"source.scss entity.other.attribute-name.id.css",
@@ -711,7 +719,13 @@
 				"source.scss entity.other.attribute-name.pseudo-element.css",
 				"source.less entity.other.attribute-name.pseudo-element.css",
 				"source.stylus entity.other.attribute-name.pseudo-element.css",
-				"source.postcss entity.other.attribute-name.pseudo-element.css"
+				"source.postcss entity.other.attribute-name.pseudo-element.css",
+				"source.css keyword.control.at-rule.media.css",
+				"source.sass keyword.control.at-rule.media.css",
+				"source.scss keyword.control.at-rule.media.css",
+				"source.less keyword.control.at-rule.media.css",
+				"source.stylus keyword.control.at-rule.media.css",
+				"source.postcss keyword.control.at-rule.media.css"
 			],
 			"settings": {
 				"foreground": "#4DD0E1"
