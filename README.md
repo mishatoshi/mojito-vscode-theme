@@ -1,8 +1,16 @@
-<p align="center"><img width="500px" src="./mojito-theme-512.png"></p>
+<p align="center"><img width="250px" src="./mojito-theme-512.png"></p>
 
 <h1 align="center">Sometimes, all you need is Mojito Theme</h1>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/110047849/232333470-12ef11e8-28a3-4702-a134-612f02aebee6.png"></p>
+<p align="center">HTML
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/413f5aab-bc8b-427a-b39e-a7216c830ff5">
+</p>
+<p align="center">CSS
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/659735ec-45f5-4d91-88da-0d0d2dd88e86">
+</p>
+<p align="center">JS
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/a48fbcc5-724a-4f8e-80ca-4973684d6a8a">
+</p>
 
 ## Getting started
 
@@ -61,7 +69,9 @@ You can override the Mojito Theme and schemes colors by adding these theme-speci
 
 "workbench.colorCustomizations": {
   "[Mojito Theme]": {
-    "editorIndentGuide.activeBackground": "#AED581"
+    "editorIndentGuide.activeBackground1": "#AED581"
   }
 },
 ```
+
+<h2 align="center">Don’t worry, be happy😍</h2>
