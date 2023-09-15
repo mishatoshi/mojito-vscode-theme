@@ -27,15 +27,28 @@
     "theme",
     "mojito",
     "dark",
+    "light",
+    "juicy mint",
+    "mint",
     "vscode",
     "visual-studio-code"
   ],
   "contributes": {
     "themes": [
       {
+        "label": "Mojito Juicy Mint Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mojito-dark-juicy-mint-color-theme.json"
+      },
+      {
+        "label": "Mojito Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/mojito-light-default-theme-color-theme.json"
+      },
+      {
         "label": "Mojito Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mojito Theme-color-theme.json"
+        "path": "./themes/mojito-dark-default-color-theme.json"
       }
     ]
   }
