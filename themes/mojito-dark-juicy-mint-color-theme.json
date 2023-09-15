@@ -1,5 +1,5 @@
 {
-	"name": "Mojito Theme",
+	"name": "Mojito Dark Juicy Mint",
 	"semanticHighlighting": true,
 	"colors": {
 		"contrastActiveBorder": "#FFFFFF00",
@@ -25,7 +25,7 @@
 		"toolbar.hoverOutline": "#4DB6AC",
 		"toolbar.activeBackground": "#388E3C",
 		"editor.background": "#1B322C",
-		"editor.foreground": "#E0F2F1",
+		"editor.foreground": "#e2f2e0",
 		"editorCursor.foreground": "#FFCA28",
 		"editor.selectionBackground": "#26A69A40",
 		"editor.inactiveSelectionBackground": "#26A69A20",
@@ -1274,6 +1274,6 @@
 				"fontStyle": "bold",
 				"foreground": "#4DB6AC"
 			}
-		},
+		}
 	]
 }
