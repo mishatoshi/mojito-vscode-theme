@@ -16,7 +16,7 @@
     "sash.hoverBorder": "#DCE775",
     "textBlockQuote.background": "#213B35",
     "textBlockQuote.border": "#FFCA28",
-    "textCodeBlock.background": "#172B26",
+    "textCodeBlock.background": "#213B35",
     "textLink.activeForeground": "#FFCC80",
     "textLink.foreground": "#FFA726",
     "textPreformat.foreground": "#DCE775",
