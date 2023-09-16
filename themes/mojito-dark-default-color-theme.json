@@ -343,7 +343,7 @@
     "scrollbarSlider.hoverBackground": "#26A69A40",
     "scrollbarSlider.activeBackground": "#388E3C80",
     "progressBar.background": "#FFCA28",
-    "walkThrough.embeddedEditorBackground": "#1B322C",
+    "walkThrough.embeddedEditorBackground": "#172B26",
     "debugToolBar.background": "#1B322C",
     "debugExceptionWidget.background": "#213B35",
     "debugExceptionWidget.border": "#4DB6AC50",
