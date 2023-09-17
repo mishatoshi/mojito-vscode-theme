@@ -2,10 +2,10 @@
   "name": "mojito-vscode-theme",
   "displayName": "Mojito Theme",
   "description": "Sometimes, all you need is Mojito Theme",
-  "version": "1.1.4",
+  "version": "2.2.4",
   "publisher": "mishatoshi",
   "license": "MIT",
-  "icon": "./mojito-theme-512.png",
+  "icon": "./Mojito-512.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/mishatoshi/mojito-vscode-theme"
@@ -25,10 +25,14 @@
   ],
   "keywords": [
     "theme",
+    "color-theme",
     "mojito",
     "dark",
-    "light",
+    "blue ocean",
+    "blue",
+    "ocean",
     "juicy mint",
+    "juicy",
     "mint",
     "vscode",
     "visual-studio-code"
@@ -36,19 +40,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mojito Juicy Mint Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/mojito-dark-juicy-mint-color-theme.json"
-      },
-      {
-        "label": "Mojito Light Theme",
-        "uiTheme": "vs",
-        "path": "./themes/mojito-light-default-theme-color-theme.json"
-      },
-      {
         "label": "Mojito Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/mojito-dark-default-color-theme.json"
+        "path": "./themes/mojito-color-theme.json"
+      },
+      {
+        "label": "Mojito Juicy Mint Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mojito-juicy-mint-color-theme.json"
+      },
+      {
+        "label": "Mojito Blue Ocean Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mojito-blue-ocean-color-theme.json"
       }
     ]
   }
