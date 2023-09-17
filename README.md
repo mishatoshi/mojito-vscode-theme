@@ -1,15 +1,16 @@
-<p align="center"><img width="250px" src="./mojito-theme-512.png"></p>
+<p align="center"><img width="200px" src="./Mojito-512.png"></p>
 
-<h1 align="center">Sometimes, all you need is Mojito Theme</h1>
+<h1 align="center">Mojito Theme</h1>
+<h3 align="center">Sometimes, all you need is Mojito Theme</h3>
 
-<p align="center">HTML
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/413f5aab-bc8b-427a-b39e-a7216c830ff5">
+<p align="center">Mojito Theme
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/f4315800-880d-4f62-aa99-dfe002f0fc42">
 </p>
-<p align="center">CSS
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/659735ec-45f5-4d91-88da-0d0d2dd88e86">
+<p align="center">Mojito Juicy Mint Theme
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/d1bac540-c13d-460b-b5ec-3106f57c724a">
 </p>
-<p align="center">JS
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/a48fbcc5-724a-4f8e-80ca-4973684d6a8a">
+<p align="center">Mojito Blue Ocean Theme
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/8425975e-a275-4cca-b8dd-13687d6ccbfd">
 </p>
 
 ## Getting started
