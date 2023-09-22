@@ -1,16 +1,17 @@
 <p align="center"><img width="200px" src="./Mojito-512.png"></p>
 
 <h1 align="center">Mojito Theme</h1>
+
 <h3 align="center">Sometimes, all you need is Mojito Theme</h3>
 
 <p align="center">Mojito Theme
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/f4315800-880d-4f62-aa99-dfe002f0fc42">
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/18da4639-02f5-4990-b5c0-30bc95a2aafa">
 </p>
 <p align="center">Mojito Juicy Mint Theme
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/d1bac540-c13d-460b-b5ec-3106f57c724a">
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/dff3fb3f-8901-4fec-a729-d7d13b5a4377">
 </p>
 <p align="center">Mojito Blue Ocean Theme
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/8425975e-a275-4cca-b8dd-13687d6ccbfd">
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/89e22a93-3780-4b73-b53a-7c671fb8d52e">
 </p>
 
 ## Getting started
@@ -75,4 +76,4 @@ You can override the Mojito Theme and schemes colors by adding these theme-speci
 },
 ```
 
-<h2 align="center">Don’t worry, be happy😍</h2>
+<h3 align="center">Don’t worry, be happy😍</h3>
