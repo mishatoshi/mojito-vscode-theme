@@ -258,9 +258,9 @@
 		"commandCenter.background": "#113C28",
 		"commandCenter.foreground": "#E8F5E9",
 		"commandCenter.border": "#2EB88150",
-		"commandCenter.activeBackground": "#388E3C",
+		"commandCenter.activeBackground": "#113C28",
 		"commandCenter.activeForeground": "#E8F5E9",
-		"commandCenter.activeBorder": "#2EB88150",
+		"commandCenter.activeBorder": "#388E3C",
 		"quickInput.background": "#0C2719",
 		"quickInput.foreground": "#E8F5E9",
 		"quickInputTitle.background": "#113C28",
@@ -848,6 +848,24 @@
 			],
 			"settings": {
 				"foreground": "#F48FB1"
+			}
+		},
+		{
+			"name": "[JS] - JSDoc punctuation",
+			"scope": [
+				"punctuation.definition.block.tag.jsdoc"
+			],
+			"settings": {
+				"foreground": "#FF8A65"
+			}
+		},
+		{
+			"name": "[JS] - JSDoc variable",
+			"scope": [
+				"variable.other.jsdoc"
+			],
+			"settings": {
+				"foreground": "#FFB74D"
 			}
 		},
 		{
