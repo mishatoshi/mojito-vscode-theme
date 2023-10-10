@@ -1,8 +1,8 @@
 {
   "name": "mojito-vscode-theme",
-  "displayName": "Mojito Theme",
-  "description": "Sometimes, all you need is Mojito Theme",
-  "version": "2.5.6",
+  "displayName": "Mojito Theme Collection",
+  "description": "The Mojito Theme Collection includes five color themes for comfortable work",
+  "version": "3.0.0",
   "publisher": "mishatoshi",
   "license": "MIT",
   "icon": "./Mojito-512.png",
@@ -14,7 +14,7 @@
     "url": "https://github.com/mishatoshi/mojito-vscode-theme/issues"
   },
   "galleryBanner": {
-    "color": "#1B322C",
+    "color": "#102A27",
     "theme": "dark"
   },
   "engines": {
@@ -26,12 +26,16 @@
   "keywords": [
     "theme",
     "color-theme",
+    "editor-theme",
+    "dark-theme",
+    "dark-syntax-theme",
     "mojito",
-    "dark",
-    "blue ocean",
-    "juicy mint",
+    "blue-ocean",
+    "juicy-mint",
+    "deep-purple",
     "vscode",
-    "visual-studio-code"
+    "vscode-theme",
+    "dark-vscode-theme"
   ],
   "contributes": {
     "themes": [
@@ -49,6 +53,16 @@
         "label": "Mojito Blue Ocean Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/mojito-blue-ocean-color-theme.json"
+      },
+      {
+        "label": "Mojito Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mojito-dark-color-theme.json"
+      },
+      {
+        "label": "Mojito Deep Purple Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mojito-deep-purple-color-theme.json"
       }
     ]
   }
