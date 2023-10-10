@@ -1,17 +1,11 @@
 <p align="center"><img width="200px" src="./Mojito-512.png"></p>
 
-<h1 align="center">Mojito Theme</h1>
+<h1 align="center">Mojito Theme Collection</h1>
 
-<h3 align="center">Sometimes, all you need is Mojito Theme</h3>
+<h3 align="center">🍸 The Mojito Theme Collection includes five color themes for comfortable work</h3>
 
-<p align="center">Mojito Theme
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/18da4639-02f5-4990-b5c0-30bc95a2aafa">
-</p>
-<p align="center">Mojito Juicy Mint Theme
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/dff3fb3f-8901-4fec-a729-d7d13b5a4377">
-</p>
-<p align="center">Mojito Blue Ocean Theme
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/89e22a93-3780-4b73-b53a-7c671fb8d52e">
+<p align="center">
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/15576e8a-9709-4299-ba34-f6957d3ce56c">
 </p>
 
 ## Getting started
@@ -20,23 +14,30 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 ### Installation
 
-Launch *Quick Open*:
+1. Launch *Quick Open*:
 
-* <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
-* <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘P`
-* <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
+* <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <span>Linux</span> `Ctrl+P`
+* <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <span>Mac OS</span> `⌘P`
+* <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <span>Windows</span> `Ctrl+P`
 
-Paste the following command and press `Enter`:
+2. Paste the following command and press `Enter`:
 
-```shell
-ext install Mojito Theme
-```
+   ``` shell
+   ext install Mojito Theme Collection
+   ```
+3. And pick the one by **mishatoshi** as author.
 
-And pick the one by **mishatoshi** as author.
+4. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme):
+
+* `Mojito Theme`
+* `Mojito Juicy Mint Theme`
+* `Mojito Blue Ocean Theme`
+* `Mojito Dark Theme`
+* `Mojito Deep Purple Theme`
 
 ## Override theme colors
 
-You can override the Mojito Theme and schemes colors by adding these theme-specific settings to your configuration. For advanced customisation please check the [relative section on the VS Code documentation](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme).
+You can override the Mojito Theme Collection and schemes colors by adding these theme-specific settings to your configuration. For advanced customisation please check the [relative section on the VS Code documentation](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme).
 
 ### Color Scheme override
 
@@ -45,7 +46,7 @@ You can override the Mojito Theme and schemes colors by adding these theme-speci
 ```json
 "editor.tokenColorCustomizations": {
     "[Mojito Theme]": {
-        "comments": "#4DB6AC"
+        "comments": "#3EA89F"
     }
 },
 ```
@@ -62,7 +63,7 @@ You can override the Mojito Theme and schemes colors by adding these theme-speci
                     "comment punctuation.definition.comment"
                 ],
                 "settings": {
-                    "foreground": "#4DB6AC"
+                    "foreground": "#3EA89F"
                 }
             }
         ]
