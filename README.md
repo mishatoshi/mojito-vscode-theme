@@ -2,7 +2,7 @@
   <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/72e78f65-0b3e-459c-9b02-c3f7dce8b1da">
 </p>
 
-<h1 align="center">Mojito Theme Collection</h1>
+<h1 align="center">Mojito Theme Collection for Visual Studio Code</h1>
 
 <h3 align="center">🍸 The Mojito Theme Collection includes five color themes for comfortable work</h3>
 
@@ -23,6 +23,7 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
     ``` shell
     ext install Mojito Theme Collection
     ```
+
 1. And pick the one by **mishatoshi** as author.
 
 1. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme):
@@ -74,5 +75,13 @@ You can override the Mojito Theme Collection and schemes colors by adding these 
   }
 },
 ```
+
+## Other versions
+
+* Windows Terminal, PowerShell, CMD: [https://github.com/mishatoshi/mojito-windows-terminal](https://github.com/mishatoshi/mojito-windows-terminal)
+
+## License
+
+[MIT License](./LICENSE)
 
 <h3 align="center">Don’t worry, be happy😍</h3>
