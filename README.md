@@ -1,12 +1,10 @@
-<p align="center"><img width="200px" src="./Mojito-512.png"></p>
+<p align="center">
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/72e78f65-0b3e-459c-9b02-c3f7dce8b1da">
+</p>
 
 <h1 align="center">Mojito Theme Collection</h1>
 
 <h3 align="center">🍸 The Mojito Theme Collection includes five color themes for comfortable work</h3>
-
-<p align="center">
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/15576e8a-9709-4299-ba34-f6957d3ce56c">
-</p>
 
 ## Getting started
 
@@ -16,24 +14,24 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 1. Launch *Quick Open*:
 
-* <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <span>Linux</span> `Ctrl+P`
-* <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <span>Mac OS</span> `⌘P`
-* <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <span>Windows</span> `Ctrl+P`
+    * <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <span>Linux</span> `Ctrl+P`
+    * <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <span>Mac OS</span> `⌘P`
+    * <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <span>Windows</span> `Ctrl+P`
 
-2. Paste the following command and press `Enter`:
+1. Paste the following command and press `Enter`:
 
-   ``` shell
-   ext install Mojito Theme Collection
-   ```
-3. And pick the one by **mishatoshi** as author.
+    ``` shell
+    ext install Mojito Theme Collection
+    ```
+1. And pick the one by **mishatoshi** as author.
 
-4. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme):
+1. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme):
 
-* `Mojito Theme`
-* `Mojito Juicy Mint Theme`
-* `Mojito Blue Ocean Theme`
-* `Mojito Dark Theme`
-* `Mojito Deep Purple Theme`
+    * `Mojito Theme`
+    * `Mojito Juicy Mint Theme`
+    * `Mojito Blue Ocean Theme`
+    * `Mojito Dark Theme`
+    * `Mojito Deep Purple Theme`
 
 ## Override theme colors
 
