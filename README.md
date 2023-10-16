@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/72e78f65-0b3e-459c-9b02-c3f7dce8b1da">
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/f4a3fa90-4759-4db2-ac52-30b5f286d5c2">
 </p>
 
 <h1 align="center">Mojito Theme Collection for Visual Studio Code</h1>
