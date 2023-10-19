@@ -79,6 +79,7 @@ You can override the Mojito Theme Collection and schemes colors by adding these 
 ## Other versions
 
 * Windows Terminal, PowerShell, CMD: [https://github.com/mishatoshi/mojito-windows-terminal](https://github.com/mishatoshi/mojito-windows-terminal)
+* Firefox [https://addons.mozilla.org/ru/firefox/addon/mojito-theme/](https://addons.mozilla.org/ru/firefox/addon/mojito-theme/)
 
 ## License
 
