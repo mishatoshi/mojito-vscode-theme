@@ -1,10 +1,18 @@
 <p align="center">
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/f4a3fa90-4759-4db2-ac52-30b5f286d5c2">
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/acf70f04-0b47-4cde-9784-32e8a9f0415c">
 </p>
 
 <h1 align="center">Mojito Theme Collection for Visual Studio Code</h1>
 
 <h3 align="center">🍸 The Mojito Theme Collection includes five color themes for comfortable work</h3>
+
+<div align="center">
+  <div>1. Mojito Theme</div>
+  <div>2. Mojito Juicy Mint Theme</div>
+  <div>3. Mojito Blue Ocean Theme</div>
+  <div>4. Mojito Dark Theme</div>
+  <div>5. Mojito Deep Purple Theme</div>
+</div>
 
 ## Getting started
 
@@ -80,6 +88,7 @@ You can override the Mojito Theme Collection and schemes colors by adding these 
 
 * Windows Terminal, PowerShell, CMD: [https://github.com/mishatoshi/mojito-windows-terminal](https://github.com/mishatoshi/mojito-windows-terminal)
 * Firefox [https://addons.mozilla.org/ru/firefox/addon/mojito-theme/](https://addons.mozilla.org/ru/firefox/addon/mojito-theme/)
+* Flow Launcher [https://github.com/mishatoshi/mojito-flowlauncher-theme](https://github.com/mishatoshi/mojito-flowlauncher-theme)
 
 ## License
 
