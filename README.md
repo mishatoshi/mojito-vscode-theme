@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/acf70f04-0b47-4cde-9784-32e8a9f0415c">
+  <img src="./logo-512.png" width="150px" height="150px">
 </p>
 
 <h1 align="center">Mojito Theme Collection for Visual Studio Code</h1>
@@ -13,6 +13,10 @@
   <div>4. Mojito Dark Theme</div>
   <div>5. Mojito Deep Purple Theme</div>
 </div>
+
+<p align="center">
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/e2983788-9451-4505-a757-9a1a210b8e47">
+</p>
 
 ## Getting started
 
