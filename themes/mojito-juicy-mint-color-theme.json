@@ -1128,22 +1128,24 @@
 		{
 			"name": "Markup Italic",
 			"scope": [
-				"markup.italic"
+				"markup.italic",
+				"punctuation.definition.italic.markdown"
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#F06292"
+				"foreground": "#4DD0E1"
 			}
 		},
 		{
 			"name": "Markup Bold",
 			"scope": [
 				"markup.bold",
-				"markup.bold string"
+				"markup.bold string",
+				"punctuation.definition.bold.markdown"
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#F06292"
+				"foreground": "#7986CB"
 			}
 		},
 		{
@@ -1158,7 +1160,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#F06292"
+				"foreground": "#4DD0E1"
 			}
 		},
 		{
