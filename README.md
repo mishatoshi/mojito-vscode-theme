@@ -2,17 +2,17 @@
   <img src="./logo-512.png" width="150px" height="150px">
 </p>
 
-<h1 align="center">Mojito Theme Collection for Visual Studio Code</h1>
+<h1 align="center" style="color:#FFC107;">Mojito Theme Collection for Visual Studio Code</h1>
 
-<h3 align="center">🍸 The Mojito Theme Collection includes five color themes for comfortable work</h3>
+<p align="center">🍸 Five beautiful dark themes for comfortable work. Choose your dark theme:</p>
 
-<div align="center">
-  <div>1. Mojito Theme</div>
-  <div>2. Mojito Juicy Mint Theme</div>
-  <div>3. Mojito Blue Ocean Theme</div>
-  <div>4. Mojito Dark Theme</div>
-  <div>5. Mojito Deep Purple Theme</div>
-</div>
+<ul align="center">
+  <li style="list-style-type:none;">Mojito Theme</li>
+  <li style="list-style-type:none;">Mojito Juicy Mint Theme</li>
+  <li style="list-style-type:none;">Mojito Blue Ocean Theme</li>
+  <li style="list-style-type:none;">Mojito Dark Theme</li>
+  <li style="list-style-type:none;">Mojito Deep Purple Theme</li>
+</ul>
 
 <p align="center">
   <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/e2983788-9451-4505-a757-9a1a210b8e47">
