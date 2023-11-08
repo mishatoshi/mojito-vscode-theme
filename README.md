@@ -2,7 +2,7 @@
   <img src="./logo-512.png" width="150px" height="150px">
 </div>
 
-<h1 align="center" style="color:#FFC107;">Mojito Theme Collection for Visual Studio Code</h1>
+<h1 align="center">Mojito Theme Collection for Visual Studio Code</h1>
 
 <h3 align="center">🍸 Five beautiful dark themes for comfortable work. Choose your dark theme:</h3>
 
@@ -13,10 +13,10 @@
   <div>Mojito Dark Theme</div>
   <div>Mojito Deep Purple Theme</div>
 </div>
-
-<p align="center">
+</br>
+<div align="center">
   <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/e2983788-9451-4505-a757-9a1a210b8e47">
-</p>
+</div>
 
 ## Getting started
 
