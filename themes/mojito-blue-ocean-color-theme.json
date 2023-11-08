@@ -48,7 +48,7 @@
     "editorWhitespace.foreground": "#FFFFFF30",
     "editorRuler.foreground": "#FFFFFF30",
     "editorIndentGuide.background1": "#FFFFFF30",
-    "editorIndentGuide.activeBackground1": "#AED581",
+    "editorIndentGuide.activeBackground1": "#B2E26A",
     "editorCodeLens.foreground": "#63879C",
     "editor.foldBackground": "#63879C20",
     "editorBracketMatch.background": "#1C262B",
