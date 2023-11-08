@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
   <img src="./logo-512.png" width="150px" height="150px">
-</p>
+</div>
 
-<h1 align="center" style="color:#FFC107;">Mojito Theme for Visual Studio Code</h1>
+<h1 align="center" style="color:#FFC107;">Mojito Theme Collection for Visual Studio Code</h1>
 
 <h3 align="center">🍸 Five beautiful dark themes for comfortable work. Choose your dark theme:</h3>
 
