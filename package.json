@@ -1,8 +1,8 @@
 {
   "name": "mojito-vscode-theme",
   "displayName": "Mojito Theme Collection",
-  "description": "The Mojito Theme Collection includes five color themes for comfortable work",
-  "version": "3.0.8",
+  "description": "Five beautiful dark themes for comfortable work",
+  "version": "3.3.9",
   "publisher": "mishatoshi",
   "license": "MIT",
   "icon": "./logo-512.png",
@@ -29,6 +29,7 @@
     "editor-theme",
     "dark-theme",
     "dark-syntax-theme",
+    "mojito-theme-collection",
     "mojito",
     "blue-ocean",
     "juicy-mint",
