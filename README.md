@@ -15,7 +15,7 @@
 </div>
 </br>
 <div align="center">
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/e2983788-9451-4505-a757-9a1a210b8e47">
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/33432b92-b47f-4fa3-bc00-870bb657594a">
 </div>
 
 ## Getting started
