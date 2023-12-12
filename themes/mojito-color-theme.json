@@ -199,7 +199,7 @@
     "input.border": "#24A89750",
     "input.foreground": "#E6E6E6",
     "input.placeholderForeground": "#24A897",
-    "inputOption.hoverBackground": "#007FFF40",
+    "inputOption.hoverBackground": "#24A89750",
     "inputOption.activeBorder": "#FFC107",
     "inputOption.activeBackground": "#FFC107cc",
     "inputOption.activeForeground": "#E6E6E6",
