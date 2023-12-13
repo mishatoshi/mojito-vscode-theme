@@ -1,11 +1,11 @@
 {
   "name": "mojito-vscode-theme",
-  "displayName": "Mojito Theme Collection",
-  "description": "Five beautiful dark themes for comfortable work",
-  "version": "3.3.9",
+  "displayName": "Mojito Theme",
+  "description": "🍸 Five beautiful dark themes for comfortable work",
+  "version": "4.0.0",
   "publisher": "mishatoshi",
   "license": "MIT",
-  "icon": "./logo-512.png",
+  "icon": "mojito-logo-512.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/mishatoshi/mojito-vscode-theme"
@@ -14,7 +14,7 @@
     "url": "https://github.com/mishatoshi/mojito-vscode-theme/issues"
   },
   "galleryBanner": {
-    "color": "#102A27",
+    "color": "#072C29",
     "theme": "dark"
   },
   "engines": {
@@ -29,7 +29,6 @@
     "editor-theme",
     "dark-theme",
     "dark-syntax-theme",
-    "mojito-theme-collection",
     "mojito",
     "blue-ocean",
     "juicy-mint",
@@ -41,27 +40,27 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mojito Theme",
+        "label": "Mojito",
         "uiTheme": "vs-dark",
         "path": "./themes/mojito-color-theme.json"
       },
       {
-        "label": "Mojito Juicy Mint Theme",
+        "label": "Mojito Juicy Mint",
         "uiTheme": "vs-dark",
         "path": "./themes/mojito-juicy-mint-color-theme.json"
       },
       {
-        "label": "Mojito Blue Ocean Theme",
+        "label": "Mojito Blue Ocean",
         "uiTheme": "vs-dark",
         "path": "./themes/mojito-blue-ocean-color-theme.json"
       },
       {
-        "label": "Mojito Dark Theme",
+        "label": "Mojito Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/mojito-dark-color-theme.json"
       },
       {
-        "label": "Mojito Deep Purple Theme",
+        "label": "Mojito Deep Purple",
         "uiTheme": "vs-dark",
         "path": "./themes/mojito-deep-purple-color-theme.json"
       }
