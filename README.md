@@ -1,21 +1,11 @@
 <div align="center">
-  <img src="./logo-512.png" width="150px" height="150px">
+  <img src="./mojito-logo-512.png" width="150px" height="150px">
+  <h1>Mojito Theme for Visual Studio Code</h1>
+  <h3>🍸 Five beautiful dark themes for comfortable work</h3>
 </div>
 
-<h1 align="center">Mojito Theme Collection for Visual Studio Code</h1>
-
-<h3 align="center">🍸 Five beautiful dark themes for comfortable work. Choose your dark theme:</h3>
-
 <div align="center">
-  <div>Mojito Theme</div>
-  <div>Mojito Juicy Mint Theme</div>
-  <div>Mojito Blue Ocean Theme</div>
-  <div>Mojito Dark Theme</div>
-  <div>Mojito Deep Purple Theme</div>
-</div>
-</br>
-<div align="center">
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/33432b92-b47f-4fa3-bc00-870bb657594a">
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/910d3393-1e46-44e8-a737-94c6f21ed57b">
 </div>
 
 ## Getting started
@@ -33,70 +23,32 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 1. Paste the following command and press `Enter`:
 
     ``` shell
-    ext install Mojito Theme Collection
+    ext install mishatoshi.mojito-vscode-theme
     ```
 
 1. And pick the one by **mishatoshi** as author.
 
 1. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme):
 
-    * `Mojito Theme`
-    * `Mojito Juicy Mint Theme`
-    * `Mojito Blue Ocean Theme`
-    * `Mojito Dark Theme`
-    * `Mojito Deep Purple Theme`
+    * `Mojito`
+    * `Mojito Juicy Mint`
+    * `Mojito Blue Ocean`
+    * `Mojito Dark`
+    * `Mojito Deep Purple`
 
-## Override theme colors
+## Override this theme
 
-You can override the Mojito Theme Collection and schemes colors by adding these theme-specific settings to your configuration. For advanced customisation please check the [relative section on the VS Code documentation](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme).
-
-### Color Scheme override
-
-#### **Basic example**
-
-```json
-"editor.tokenColorCustomizations": {
-    "[Mojito Theme]": {
-        "comments": "#3EA89F"
-    }
-},
-```
-
-#### **Advanced example**
-
-```json
-"editor.tokenColorCustomizations": {
-    "[Mojito Theme]": {
-        "textMateRules": [
-            {
-                "scope": [
-                    "comment",
-                    "comment punctuation.definition.comment"
-                ],
-                "settings": {
-                    "foreground": "#3EA89F"
-                }
-            }
-        ]
-    },
-},
-
-"workbench.colorCustomizations": {
-  "[Mojito Theme]": {
-    "editorIndentGuide.activeBackground1": "#B2E26A"
-  }
-},
-```
+To override this (or any other) theme in your personal config file, please follow the guide in the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation. This is handy for small tweaks to the theme without having to fork and maintain your own theme.
 
 ## Other versions
 
 * Windows Terminal, PowerShell, CMD: [https://github.com/mishatoshi/mojito-windows-terminal](https://github.com/mishatoshi/mojito-windows-terminal)
 * Firefox:
-  * Mojito Theme [https://addons.mozilla.org/ru/firefox/addon/mojito-theme/](https://addons.mozilla.org/ru/firefox/addon/mojito-theme/)
-  * Mojito Juicy Mint Theme [https://addons.mozilla.org/ru/firefox/addon/mojito-juicy-mint/](https://addons.mozilla.org/ru/firefox/addon/mojito-juicy-mint/)
-  * Mojito Blue Ocean Theme [https://addons.mozilla.org/ru/firefox/addon/mojito-blue-ocean/](https://addons.mozilla.org/ru/firefox/addon/mojito-blue-ocean/)
-  * Mojito Dark Theme [https://addons.mozilla.org/ru/firefox/addon/mojito-dark/](https://addons.mozilla.org/ru/firefox/addon/mojito-dark/)
-  * Mojito Deep Purple Theme [https://addons.mozilla.org/ru/firefox/addon/mojito-deep-purple/](https://addons.mozilla.org/ru/firefox/addon/mojito-deep-purple/)
+  * Mojito [https://addons.mozilla.org/ru/firefox/addon/mojito-theme/](https://addons.mozilla.org/ru/firefox/addon/mojito-theme/)
+  * Mojito Juicy Mint [https://addons.mozilla.org/ru/firefox/addon/mojito-juicy-mint/](https://addons.mozilla.org/ru/firefox/addon/mojito-juicy-mint/)
+  * Mojito Blue Ocean [https://addons.mozilla.org/ru/firefox/addon/mojito-blue-ocean/](https://addons.mozilla.org/ru/firefox/addon/mojito-blue-ocean/)
+  * Mojito Dark [https://addons.mozilla.org/ru/firefox/addon/mojito-dark/](https://addons.mozilla.org/ru/firefox/addon/mojito-dark/)
+  * Mojito Deep Purple [https://addons.mozilla.org/ru/firefox/addon/mojito-deep-purple/](https://addons.mozilla.org/ru/firefox/addon/mojito-deep-purple/)
 * Flow Launcher [https://github.com/mishatoshi/mojito-flowlauncher-theme](https://github.com/mishatoshi/mojito-flowlauncher-theme)
 
 ## License
