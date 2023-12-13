@@ -1,4 +1,4 @@
-# Mojito Theme Collection for VS Code
+# Mojito Theme for VS Code
 
 ## v4.0.0
 
