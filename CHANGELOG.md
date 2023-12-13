@@ -1,5 +1,19 @@
 # Mojito Theme Collection for VS Code
 
+## v4.0.0
+
+### Major Changes
+
+1. Add new rich color for the Mojito Theme
+1. Redesigned user interface:
+   * Darker terminal
+   * Changed color for selection highlight
+   * Changed color for links
+   * Changed color for focus background, hover background, inactive selection background
+   * And more...
+
+___
+
 ## v3.3.9
 
 ### Minor Changes
@@ -40,6 +54,6 @@ ___
 1. Added new color themes:
     * Mojito Dark Theme
     * Mojito Deep Purple Theme
- 
+
 1. Mojito Theme appearance with new richer colors
 1. In all color themes, many elements have the same color style
