@@ -284,7 +284,7 @@
     "panelInput.border": "#63879C50",
     "terminal.background": "#12181C",
     "terminal.foreground": "#CCCCCC",
-    "terminal.border": "#FFC107",
+    "terminal.border": "#63879C50",
     "terminal.dropBackground": "#007FFF20",
     "terminalCursor.background": "#12181C",
     "terminalCursor.foreground": "#FFC107",
