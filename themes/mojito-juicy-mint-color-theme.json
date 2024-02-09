@@ -419,28 +419,20 @@
 			}
 		},
 		{
-			"name": "Constants and enums",
-			"scope": [
-				"constant",
-				"constant.other",
-				"variable.other.constant",
-				"variable.other.enummember",
-				"support.constant"
-			],
-			"settings": {
-				"foreground": "#4DEAFF"
-			}
-		},
-		{
-			"name": "Other Variable",
-			"scope": [
-				"support.other.variable",
-				"variable.other.object"
-			],
-			"settings": {
-				"foreground": "#E6E6E6"
-			}
-		},
+      "name": "Constants and Other Variable",
+      "scope": [
+        "constant",
+        "constant.other",
+        "variable.other.constant",
+        "variable.other.enummember",
+        "support.constant",
+        "variable.other.object",
+        "support.other.variable"
+      ],
+      "settings": {
+        "foreground": "#4DEAFF"
+      }
+    },
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
