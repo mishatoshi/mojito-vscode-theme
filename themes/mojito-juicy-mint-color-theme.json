@@ -419,7 +419,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#CCCCCC"
+				"foreground": "#E6E6E6"
 			}
 		},
 		{
@@ -752,7 +752,7 @@
         "variable.other.php"
       ],
       "settings": {
-        "foreground": "#CCCCCC"
+        "foreground": "#E6E6E6"
       }
     },
 		{
