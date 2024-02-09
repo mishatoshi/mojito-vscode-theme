@@ -228,7 +228,7 @@
     "dropdown.foreground": "#CCCCCC",
     "breadcrumb.background": "#1C262B",
     "breadcrumb.foreground": "#63879C",
-    "breadcrumb.focusForeground": "#CCCCCC",
+    "breadcrumb.focusForeground": "#FFFFFF",
     "breadcrumb.activeSelectionForeground": "#FFC107",
     "breadcrumbPicker.background": "#12181C",
     "peekView.border": "#63879C50",
