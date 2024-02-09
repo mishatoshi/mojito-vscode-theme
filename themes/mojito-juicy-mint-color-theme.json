@@ -131,7 +131,7 @@
 		"list.activeSelectionForeground": "#CCCCCC",
 		"list.activeSelectionIconForeground": "#CCCCCC",
 		"list.inactiveSelectionBackground": "#2EB88150",
-		"list.inactiveSelectionForeground": "#CCCCCC",
+		"list.inactiveSelectionForeground": "#FFFFFF",
 		"list.inactiveSelectionIconForeground": "#CCCCCC",
 		"listFilterWidget.background": "#0C2719",
 		"listFilterWidget.outline": "#2EB88150",
