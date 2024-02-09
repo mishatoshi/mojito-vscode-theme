@@ -742,6 +742,16 @@
       }
     },
     {
+      "name": "[PHP] - variable",
+      "scope": [
+        "punctuation.definition.variable.php",
+        "variable.other.php"
+      ],
+      "settings": {
+        "foreground": "#CCCCCC"
+      }
+    },
+    {
       "name": "[C++] - scope-resolution: parameter, template.call",
       "scope": [
         "entity.name.scope-resolution.parameter.cpp",
