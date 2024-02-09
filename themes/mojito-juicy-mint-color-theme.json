@@ -608,6 +608,7 @@
 			"scope": [
 				"variable.other.property",
 				"support.constant.property",
+				"support.variable.property",
 				"support.type.property-name",
 				"variable.other.object.property"
 			],
