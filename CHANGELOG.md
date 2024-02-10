@@ -1,5 +1,23 @@
 # Mojito Theme for VS Code
 
+## v4.7.6
+
+### Minor Changes
+
+1. Updated the colors for the notification window
+1. Added colors for "activityBarTop"
+1. Changed color transparency for properties: "list.inactiveSelectionBackground" and "list.hoverBackground"
+1. Added a color for the property - "support.variable.property"
+1. Added a color for the properties: "other object" and "support.other.variable"
+
+### Patch Changes
+
+* Fixed the color for "terminal.border"
+* Fixed the color for "editorOverviewRuler": "wordHighlightForeground" and "wordHighlightStrongForeground"
+* Fixed the default color for "extensionIcon": "starForeground", "sponsorForeground", "verifiedForeground"
+
+___
+
 ## v4.0.0
 
 ### Major Changes
