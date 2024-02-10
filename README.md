@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/910d3393-1e46-44e8-a737-94c6f21ed57b">
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/330a69d2-35d7-427e-9699-b9bb76980b14">
 </div>
 
 ## Getting started
