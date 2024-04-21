@@ -1,5 +1,34 @@
 # Mojito Theme for VS Code
 
+## v5.0.0
+
+### Major Changes
+
+1. The main theme of Mojito Dark Teal (Mojito) has been updated. The new color palette of the teal color.
+1. More contrasting colors in Mojito Dark Green (Mojito Juicy Mint) and Mojito Blue Grey (Mojito Blue Ocean).
+
+### Minor Changes
+
+* Color changes for all themes:
+  * Active color (Light Green)
+  * Border (Black)
+  * Button (Lime)
+  * Selection background (Light Green)
+  * Link foreground (Orange)
+  * Dropdown border (Light Green)
+  * Dropdown background (Light Green)
+  * Many fixes and improvements have been made
+
+### Patch Changes
+
+* Changes to the names of color themes:
+  * Mojito > Mojito Dark Teal
+  * Mojito Juicy Mint > Mojito Dark Green
+  * Mojito Blue Ocean > Mojito Blue Grey
+  * Mojito Dark > Mojito Dark Grey
+
+___
+
 ## v4.7.6
 
 ### Minor Changes
