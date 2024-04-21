@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./mojito-logo-512.png" width="150px" height="150px">
+  <img src="./mojito-logo.png" width="100px" height="100px">
   <h1>Mojito Theme for Visual Studio Code</h1>
   <h3>🍸 Five beautiful dark themes for comfortable work</h3>
 </div>
 
 <div align="center">
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/330a69d2-35d7-427e-9699-b9bb76980b14">
+  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/cf57c388-4407-47b1-bf29-9eb16043e97c">
 </div>
 
 ## Getting started
@@ -30,10 +30,10 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 1. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme):
 
-    * `Mojito`
-    * `Mojito Juicy Mint`
-    * `Mojito Blue Ocean`
-    * `Mojito Dark`
+    * `Mojito Dark Teal`
+    * `Mojito Dark Green`
+    * `Mojito Blue Grey`
+    * `Mojito Dark Grey`
     * `Mojito Deep Purple`
 
 ## Override this theme
