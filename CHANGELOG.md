@@ -1,5 +1,22 @@
 # Mojito Theme for VS Code
 
+## v5.1.0
+
+### Minor Changes
+
+1. Added color for "tab.selectedBorderTop"
+1. Added color for "tab.selectedForeground"
+1. Added color for "tab.selectedBackground"
+
+### Patch Changes
+
+1. Changed color for "editorGroupHeader.noTabsBackground"
+2. Changed color for "editorGroupHeader.tabsBackground"
+3. Changed color for "tab.inactiveBackground"
+4. Changed: "tab.activeBorder" > "tab.activeBorderTop"
+
+___
+
 ## v5.0.0
 
 ### Major Changes
