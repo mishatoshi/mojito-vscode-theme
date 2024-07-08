@@ -2,7 +2,7 @@
   "name": "mojito-vscode-theme",
   "displayName": "Mojito Theme",
   "description": "🍸 Five beautiful dark themes for comfortable work",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "publisher": "mishatoshi",
   "license": "MIT",
   "icon": "mojito-logo.png",
@@ -38,6 +38,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Mojito Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mojito-pro-color-theme.json"
+      },
       {
         "label": "Mojito Dark Teal",
         "uiTheme": "vs-dark",
