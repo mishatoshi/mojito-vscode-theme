@@ -364,6 +364,12 @@
     "debugConsole.errorForeground": "#F44336",
     "debugConsole.infoForeground": "#2196F3",
     "debugConsole.warningForeground": "#FFEB3B",
+    "debugTokenExpression.name": "#CDDD3C",
+    "debugTokenExpression.value": "#33E7FF",
+    "debugTokenExpression.string": "#FFED4D",
+    "debugTokenExpression.boolean": "#3DA2F5",
+    "debugTokenExpression.number": "#33E7FF",
+    "debugTokenExpression.error": "#F44336",
     "notebook.focusedCellBorder": "#FFC107",
     "notebook.inactiveFocusedCellBorder": "#666666",
     "settings.modifiedItemIndicator": "#00BCD4",
@@ -755,30 +761,41 @@
       }
     },
     {
-      "name": "Regular Expressions String",
+      "name": "Regular Expressions",
       "scope": [
-        "string.regexp",
-        "constant.other.character-class.regexp",
-        "constant.other.character-class.set.regexp",
-        "constant.other.character-class.range.regexp"
+        "string.regexp punctuation.definition.string.begin",
+        "string.regexp punctuation.definition.string.end"
+      ],
+      "settings": {
+        "foreground": "#EF5D8D"
+      }
+    },
+    {
+      "name": "Regular Expressions String, Punctuation",
+      "scope": [
+        "constant.other.character-class.range.regexp",
+        "punctuation.definition.character-class.regexp"
+      ],
+      "settings": {
+        "foreground": "#33E7FF"
+      }
+    },
+    {
+      "name": "Regular Expressions Character-Class Set",
+      "scope": [
+        "constant.other.character-class.set.regexp"
       ],
       "settings": {
         "foreground": "#FFED4D"
       }
     },
     {
-      "name": "Regular Expressions Punctuation",
+      "name": "Regular Expressions Punctuation Group",
       "scope": [
-        "string.regexp punctuation.definition.string.begin",
-        "string.regexp punctuation.definition.string.end",
-        "punctuation.definition.character-class.regexp",
-        "punctuation.definition.group.regexp",
-        "keyword.operator.quantifier.regexp",
-        "keyword.control.anchor.regexp",
-        "keyword.operator.or.regexp"
+        "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#CE6DDF"
+        "foreground": "#6AE26E"
       }
     },
     {
