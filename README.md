@@ -5,14 +5,33 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/cf57c388-4407-47b1-bf29-9eb16043e97c">
+  <h2>Mojito Teal</h2>
+  <img src="https://github.com/user-attachments/assets/5f326153-6496-4fc1-b9a1-8f36d752cc95">
+</div>
+
+<div align="center">
+  <h2>Mojito Green</h2>
+  <img src="https://github.com/user-attachments/assets/3f6fca50-950a-4efe-9a61-b1cae035ca17">
+</div>
+
+<div align="center">
+  <h2>Mojito Blue Grey</h2>
+  <img src="https://github.com/user-attachments/assets/6110faf3-157f-4230-a977-59072ba7a944">
+</div>
+
+<div align="center">
+  <h2>Mojito Dark Grey</h2>
+  <img src="https://github.com/user-attachments/assets/ef8098f5-6f21-4e69-b636-709055a713d6">
+</div>
+
+<div align="center">
+  <h2>Mojito Deep Purple</h2>
+  <img src="https://github.com/user-attachments/assets/b0c6f762-6742-4f6a-850f-e778970cd08c">
 </div>
 
 ## Getting started
 
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-vscode-theme&ssr=false#overview).
-
-**NEW!** Install a new color green theme [Mojito Pro](https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-pro-vscode-theme), thought out to the smallest detail, with constant long-term support.
 
 ### Installation
 
@@ -32,8 +51,8 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 1. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme):
 
-    * `Mojito Dark Teal`
-    * `Mojito Dark Green`
+    * `Mojito Teal`
+    * `Mojito Green`
     * `Mojito Blue Grey`
     * `Mojito Dark Grey`
     * `Mojito Deep Purple`
@@ -41,6 +60,10 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 ## Override this theme
 
 To override this (or any other) theme in your personal config file, please follow the guide in the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation. This is handy for small tweaks to the theme without having to fork and maintain your own theme.
+
+## Other versions
+
+* Mojito Pro [https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-pro-vscode-theme](https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-pro-vscode-theme)
 
 ## License
 
