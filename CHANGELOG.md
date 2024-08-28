@@ -1,5 +1,17 @@
 # Mojito Theme for VS Code
 
+## v5.2.0
+
+### Minor Changes
+
+* Added colors for "debugTokenExpression"
+
+### Patch Changes
+
+* Changed colors for RegExp
+
+___
+
 ## v5.1.0
 
 ### Minor Changes
