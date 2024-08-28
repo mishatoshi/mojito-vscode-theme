@@ -2,7 +2,7 @@
   "name": "mojito-vscode-theme",
   "displayName": "Mojito Theme",
   "description": "🍸 Five beautiful dark themes for comfortable work",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "publisher": "mishatoshi",
   "license": "MIT",
   "icon": "mojito-logo.png",
@@ -30,8 +30,8 @@
     "vscode",
     "vscode-theme",
     "mojito-theme",
-    "mojito-dark-teal",
-    "mojito-dark-green",
+    "mojito-teal",
+    "mojito-green",
     "mojito-blue-grey",
     "mojito-dark-grey",
     "mojito-deep-purple"
@@ -39,19 +39,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mojito Pro",
+        "label": "Mojito Teal",
         "uiTheme": "vs-dark",
-        "path": "./themes/mojito-pro-color-theme.json"
+        "path": "./themes/mojito-teal-color-theme.json"
       },
       {
-        "label": "Mojito Dark Teal",
+        "label": "Mojito Green",
         "uiTheme": "vs-dark",
-        "path": "./themes/mojito-dark-teal-color-theme.json"
-      },
-      {
-        "label": "Mojito Dark Green",
-        "uiTheme": "vs-dark",
-        "path": "./themes/mojito-dark-green-color-theme.json"
+        "path": "./themes/mojito-green-color-theme.json"
       },
       {
         "label": "Mojito Blue Grey",
