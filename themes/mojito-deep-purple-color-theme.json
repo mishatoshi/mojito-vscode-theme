@@ -607,7 +607,8 @@
     {
       "name": "Variable Parameter",
       "scope": [
-        "variable.parameter"
+        "variable.parameter",
+        "meta.parameter.initialization"
       ],
       "settings": {
         "foreground": "#EF5D8D"
@@ -829,29 +830,6 @@
       ],
       "settings": {
         "foreground": "#33E7FF"
-      }
-    },
-    {
-      "name": "[C++] - scope-resolution: parameter, template.call",
-      "scope": [
-        "entity.name.scope-resolution.parameter.cpp",
-        "entity.name.scope-resolution.cpp",
-        "entity.name.scope-resolution.template.call.cpp",
-        "punctuation.separator.scope-resolution.parameter.cpp",
-        "punctuation.separator.scope-resolution.cpp",
-        "punctuation.separator.scope-resolution.template.call.cpp"
-      ],
-      "settings": {
-        "foreground": "#3DA2F5"
-      }
-    },
-    {
-      "name": "[C++] - meta.parameter.initialization",
-      "scope": [
-        "meta.parameter.initialization"
-      ],
-      "settings": {
-        "foreground": "#EF5D8D"
       }
     },
     {
