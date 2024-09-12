@@ -632,6 +632,7 @@
         "entity.name.type.class",
         "entity.name.type.module",
         "entity.name.type",
+        "entity.name",
         "support.class",
         "support.class.component",
         "entity.other.inherited-class"
