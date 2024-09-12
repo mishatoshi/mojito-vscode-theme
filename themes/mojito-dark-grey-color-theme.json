@@ -618,7 +618,8 @@
         "support.variable.property",
         "support.type.property-name",
         "variable.other.object.property",
-        "punctuation.separator.key-value"
+        "punctuation.separator.key-value",
+        "variable.other.enummember"
       ],
       "settings": {
         "foreground": "#CDDD3C"
