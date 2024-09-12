@@ -433,6 +433,7 @@
         "constant",
         "constant.other",
         "variable.other.constant",
+        "variable.object",
         "variable.other.enummember",
         "support.constant",
         "variable.other.object",
@@ -618,6 +619,7 @@
       "name": "Object Key",
       "scope": [
         "variable.other.property",
+        "variable.other.member",
         "support.constant.property",
         "support.variable.property",
         "support.type.property-name",
@@ -812,24 +814,6 @@
       ],
       "settings": {
         "foreground": "#CCFFF6"
-      }
-    },
-    {
-      "name": "[C] - variable.other.member.c",
-      "scope": [
-        "variable.other.member.c"
-      ],
-      "settings": {
-        "foreground": "#CDDD3C"
-      }
-    },
-    {
-      "name": "[C] - variable.object.c",
-      "scope": [
-        "variable.object.c"
-      ],
-      "settings": {
-        "foreground": "#33E7FF"
       }
     },
     {
