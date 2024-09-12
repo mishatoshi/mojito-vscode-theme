@@ -156,7 +156,7 @@
     "tab.activeForeground": "#CCFFF6",
     "tab.border": "#00000080",
     "tab.activeBorderTop": "#FFC107",
-    "tab.selectedBorderTop": "#9AD147",
+    "tab.selectedBorderTop": "#FFD24D",
     "tab.selectedForeground": "#22774D",
     "tab.selectedBackground": "#0B2317",
     "tab.lastPinnedBorder": "#FFC107",
