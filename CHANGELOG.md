@@ -1,5 +1,29 @@
 # Mojito Theme for VS Code
 
+## v5.3.0
+
+### Minor Changes
+
+* Changed the color for:
+  * "activityBar.background" and "sideBarSectionHeader.background"
+  * "peekViewResult.background"
+  * "editorGroupHeader.noTabsBackground"
+  * "tab.selectedBorderTop"
+
+### Patch Changes
+
+* Fixed the color for:
+  * TypeScript type name
+  * enam property in the TypeScript
+  * import variable name in Go
+  * constant name in the PHP
+  * variable name of the keyframe parameter in styles
+  * variable name in the Less (Styles)
+  * "entity.name.scope-resolution" and "entity.name.scope-resolution" in C++
+* Fixed bugs and removal of unnecessary code.
+
+___
+
 ## v5.2.0
 
 ### Minor Changes
@@ -23,9 +47,9 @@ ___
 ### Patch Changes
 
 1. Changed color for "editorGroupHeader.noTabsBackground"
-2. Changed color for "editorGroupHeader.tabsBackground"
-3. Changed color for "tab.inactiveBackground"
-4. Changed: "tab.activeBorder" > "tab.activeBorderTop"
+1. Changed color for "editorGroupHeader.tabsBackground"
+1. Changed color for "tab.inactiveBackground"
+1. Changed: "tab.activeBorder" > "tab.activeBorderTop"
 
 ___
 
