@@ -51,6 +51,9 @@ ___
 1. Changed color for "editorGroupHeader.tabsBackground"
 1. Changed color for "tab.inactiveBackground"
 1. Changed: "tab.activeBorder" > "tab.activeBorderTop"
+1. Changed color for "editorGroupHeader.tabsBackground"
+1. Changed color for "tab.inactiveBackground"
+1. Changed: "tab.activeBorder" > "tab.activeBorderTop"
 
 ___
 
