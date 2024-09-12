@@ -729,12 +729,13 @@
       }
     },
     {
-      "name": "[Styles] - punctuation.definition.variable.less",
+      "name": "[Styles] - support.other.variable.less",
       "scope": [
+        "support.other.variable.less",
         "punctuation.definition.variable.less",
       ],
       "settings": {
-        "foreground": "#33E7FF"
+        "foreground": "#CCFFF6"
       }
     },
     {
