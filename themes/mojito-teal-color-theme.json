@@ -420,7 +420,8 @@
         "variable",
         "variable.other",
         "variable.other.readwrite",
-        "entity.name.variable"
+        "entity.name.variable",
+        "variable.other punctuation.definition.variable"
       ],
       "settings": {
         "foreground": "#CCFFF6"
@@ -435,7 +436,9 @@
         "variable.other.enummember",
         "support.constant",
         "variable.other.object",
-        "support.other.variable"
+        "support.other.variable",
+        "variable.other.global",
+        "variable.other.global punctuation.definition.variable"
       ],
       "settings": {
         "foreground": "#33E7FF"
@@ -804,16 +807,6 @@
       "name": "Regular Expressions Backslash",
       "scope": [
         "constant.character.escape.backslash.regexp"
-      ],
-      "settings": {
-        "foreground": "#CCFFF6"
-      }
-    },
-    {
-      "name": "[PHP] - variable",
-      "scope": [
-        "source.php punctuation.definition.variable.php",
-        "source.php variable.other.php"
       ],
       "settings": {
         "foreground": "#CCFFF6"
