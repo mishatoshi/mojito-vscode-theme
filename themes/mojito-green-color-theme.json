@@ -529,7 +529,6 @@
         "variable.language.self",
         "support.type",
         "constant.other.key",
-        "entity.name.type",
         "keyword.other.type",
         "variable.language"
       ],
@@ -631,6 +630,7 @@
         "entity.name.class",
         "entity.name.type.class",
         "entity.name.type.module",
+        "entity.name.type",
         "support.class",
         "support.class.component",
         "entity.other.inherited-class"
