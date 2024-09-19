@@ -2,10 +2,10 @@
   "name": "mojito-vscode-theme",
   "displayName": "Mojito Theme",
   "description": "🍸 Five beautiful dark themes for comfortable work",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "publisher": "mishatoshi",
   "license": "MIT",
-  "icon": "mojito-logo.png",
+  "icon": "Mojito-Logo-512.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/mishatoshi/mojito-vscode-theme"
@@ -14,7 +14,7 @@
     "url": "https://github.com/mishatoshi/mojito-vscode-theme/issues"
   },
   "galleryBanner": {
-    "color": "#002E26",
+    "color": "#072112",
     "theme": "dark"
   },
   "engines": {
