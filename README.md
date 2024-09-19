@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./mojito-logo.png" width="100px" height="100px">
+  <img src="./Mojito-Logo-512.png" width="100px" height="100px">
   <h1>Mojito Theme for Visual Studio Code</h1>
   <h3>🍸 Five beautiful dark themes for comfortable work</h3>
 </div>
