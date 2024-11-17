@@ -1,5 +1,20 @@
 # Mojito Theme for VS Code
 
+## v5.4.0
+
+### Minor Changes
+
+1. Symbol Icons colors. The theme colors for symbol icons that appears in the Outline view, breadcrumb navigation, and suggest widget
+
+### Patch Changes
+
+1. **Mojito Green** renamed to **Mojito Default**
+1. Fixed: the color of the function parameter for **self** in **python**
+1. Fixed: the color of the import **name** in **go**
+1. Fixed: code optimization, duplicate removal
+
+___
+
 ## v5.3.0
 
 ### Minor Changes
