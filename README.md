@@ -1,32 +1,32 @@
 <div align="center">
-  <img src="./Mojito-Logo-512.png" width="100px" height="100px">
+  <img src="./mojito-logotype-512.png" width="100px" height="100px">
   <h1>Mojito Theme for Visual Studio Code</h1>
   <h3>🍸 Five beautiful dark themes for comfortable work</h3>
 </div>
 
 <div align="center">
-  <h2>Mojito Teal</h2>
-  <img src="https://github.com/user-attachments/assets/f1375d3c-47a4-42af-960e-307d820162c0">
+  <h2>Mojito Default</h2>
+  <img src="https://github.com/user-attachments/assets/97f53698-784b-47d0-8ff1-b3f3f12424b4">
 </div>
 
 <div align="center">
-  <h2>Mojito Green</h2>
-  <img src="https://github.com/user-attachments/assets/8235c696-dcad-4a20-a8f3-56e7392a83ab">
+  <h2>Mojito Teal</h2>
+  <img src="https://github.com/user-attachments/assets/d9f903d0-17aa-4e8e-a901-a006a8eff510">
 </div>
 
 <div align="center">
   <h2>Mojito Blue Grey</h2>
-  <img src="https://github.com/user-attachments/assets/2ca9d8bc-8360-405a-b80b-15aaec96d198">
-</div>
-
-<div align="center">
-  <h2>Mojito Dark Grey</h2>
-  <img src="https://github.com/user-attachments/assets/84287c67-6796-432d-b129-57c94a0fd44c">
+  <img src="https://github.com/user-attachments/assets/023069fa-43dd-4dc6-9533-d59db8d3b10e">
 </div>
 
 <div align="center">
   <h2>Mojito Deep Purple</h2>
-  <img src="https://github.com/user-attachments/assets/1e2e6aeb-9875-470f-87a3-febb0c338bb0">
+  <img src="https://github.com/user-attachments/assets/0d056037-8b5f-4519-a920-8cdcead0d8f9">
+</div>
+
+<div align="center">
+  <h2>Mojito Dark Grey</h2>
+  <img src="https://github.com/user-attachments/assets/e0980140-3cfa-4eec-8ba6-10ff4430bea7">
 </div>
 
 ## Getting started
@@ -51,11 +51,11 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 1. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme):
 
+    * `Mojito Default`
     * `Mojito Teal`
-    * `Mojito Green`
     * `Mojito Blue Grey`
-    * `Mojito Dark Grey`
     * `Mojito Deep Purple`
+    * `Mojito Dark Grey`
 
 ## Override this theme
 
