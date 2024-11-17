@@ -2,10 +2,10 @@
   "name": "mojito-vscode-theme",
   "displayName": "Mojito Theme",
   "description": "🍸 Five beautiful dark themes for comfortable work",
-  "version": "5.3.1",
+  "version": "5.4.0",
   "publisher": "mishatoshi",
   "license": "MIT",
-  "icon": "Mojito-Logo-512.png",
+  "icon": "mojito-logotype-512.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/mishatoshi/mojito-vscode-theme"
@@ -14,7 +14,7 @@
     "url": "https://github.com/mishatoshi/mojito-vscode-theme/issues"
   },
   "galleryBanner": {
-    "color": "#072112",
+    "color": "#0B2317",
     "theme": "dark"
   },
   "engines": {
@@ -30,8 +30,8 @@
     "vscode",
     "vscode-theme",
     "mojito-theme",
+    "mojito-default",
     "mojito-teal",
-    "mojito-green",
     "mojito-blue-grey",
     "mojito-dark-grey",
     "mojito-deep-purple"
@@ -39,14 +39,14 @@
   "contributes": {
     "themes": [
       {
+        "label": "Mojito Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mojito-default-color-theme.json"
+      },
+      {
         "label": "Mojito Teal",
         "uiTheme": "vs-dark",
         "path": "./themes/mojito-teal-color-theme.json"
-      },
-      {
-        "label": "Mojito Green",
-        "uiTheme": "vs-dark",
-        "path": "./themes/mojito-green-color-theme.json"
       },
       {
         "label": "Mojito Blue Grey",
@@ -54,14 +54,14 @@
         "path": "./themes/mojito-blue-grey-color-theme.json"
       },
       {
-        "label": "Mojito Dark Grey",
-        "uiTheme": "vs-dark",
-        "path": "./themes/mojito-dark-grey-color-theme.json"
-      },
-      {
         "label": "Mojito Deep Purple",
         "uiTheme": "vs-dark",
         "path": "./themes/mojito-deep-purple-color-theme.json"
+      },
+      {
+        "label": "Mojito Dark Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mojito-dark-grey-color-theme.json"
       }
     ]
   }
