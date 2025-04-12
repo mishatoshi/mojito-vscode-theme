@@ -1,8 +1,8 @@
 {
   "name": "mojito-vscode-theme",
-  "displayName": "Mojito Theme",
-  "description": "🍸 Five beautiful dark themes for comfortable work",
-  "version": "5.4.0",
+  "displayName": "[Deprecated] Mojito Theme",
+  "description": "It will be deleted starting from May 2025. Use the Mojito Pro Theme",
+  "version": "5.4.1",
   "publisher": "mishatoshi",
   "license": "MIT",
   "icon": "mojito-logotype-512.png",
