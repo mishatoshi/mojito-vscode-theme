@@ -1,8 +1,10 @@
 <div align="center">
   <img src="./mojito-logotype-512.png" width="100px" height="100px">
-  <h1>Mojito Theme for Visual Studio Code</h1>
-  <h3>🍸 Five beautiful dark themes for comfortable work</h3>
+  <h1>[Deprecated] Mojito Theme for Visual Studio Code</h1>
+  <h3>It will be deleted starting from May 2025. Use the Mojito Pro Theme</h3>
 </div>
+
+**Mojito Pro** [https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-pro-vscode-theme](https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-pro-vscode-theme)
 
 <div align="center">
   <h2>Mojito Default</h2>
@@ -60,10 +62,6 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 ## Override this theme
 
 To override this (or any other) theme in your personal config file, please follow the guide in the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation. This is handy for small tweaks to the theme without having to fork and maintain your own theme.
-
-## Other versions
-
-* Mojito Pro [https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-pro-vscode-theme](https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-pro-vscode-theme)
 
 ## License
 
